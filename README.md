@@ -1,4 +1,6 @@
 # Gallery
+Personal project using: React, TypeScript, Next, Tailwind, Shadcn UI, Drizzle (ORM), Upstash Rate Limit, Clerk (Auth), Postgres, Posthog (Analytics).
+
 
 ## TO DO
 
@@ -13,7 +15,7 @@
 - [x] Use Next/Image component
 - [x] Error management (w/ Sentry)
 - [x] Routing/image page (parallel route)
-- [x] Update upload button to be less cringe
+- [x] Update upload button
 - [x] Analytics (posthog)
 - [x] Delete button (w/ Server Actions)
-- [] Ratelimiting (upstash)
+- [x] Ratelimiting (upstash)
